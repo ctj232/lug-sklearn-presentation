@@ -1,0 +1,13 @@
+Title: Bottle
+Description: >
+    Bottle is a micro-framework for HTTP written in Python. Bottle allows you
+    to develop simple web applications and REST APIs in Python without the
+    overhead of a larger framework like Django or TurboGears.
+
+    This presentation covers the basics of how to use Bottle, when you should
+    use Bottle, and how to deploy your Bottle application.
+Date: 2017-03-23
+Thumbnail: graphics/bottle.png
+Files:
+    SlidesPDF: bottle.pdf
+    LaTeX: bottle.tex
