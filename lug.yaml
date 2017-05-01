@@ -1,13 +1,10 @@
-Title: Bottle
+Title: scikit-learn
 Description: >
-    Bottle is a micro-framework for HTTP written in Python. Bottle allows you
-    to develop simple web applications and REST APIs in Python without the
-    overhead of a larger framework like Django or TurboGears.
+    scikit-learn is an open source, commercially usable Python library for machine learning that is built on top of NumPy and SciPy. scikit-learn provides many tools for data mining and analysis.
 
-    This presentation covers the basics of how to use Bottle, when you should
-    use Bottle, and how to deploy your Bottle application.
-Date: 2017-03-23
-Thumbnail: graphics/bottle.png
+    This presentation covers the basics of how to use scikit-learn for common machine learning tasks including supervised classification, model evaluation/selection, and the idea of pipelines in scikit-learn.
+Date: 2017-04-27
+Thumbnail: graphics/sklearn.png
 Files:
-    SlidesPDF: bottle.pdf
-    LaTeX: bottle.tex
+    SlidesPDF: sklearn.pdf
+    LaTeX: sklearn.tex
